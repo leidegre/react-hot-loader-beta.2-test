@@ -1,0 +1,25 @@
+{
+  "env": {
+    "es6": true,
+    "node": true
+  },
+  "rules": {
+    "quotes": [
+      2,
+      "single"
+    ],
+    "semi": [
+      2,
+      "never"
+    ],
+    "no-path-concat": 2,
+    "no-const-assign": 2,
+    "prefer-const": 1,
+    "prefer-template": 1,
+    "constructor-super": 2,
+    "no-class-assign": 2,
+    "no-undef": 2,
+    "no-shadow": 1,
+    "no-unused-vars": 1
+  }
+}
